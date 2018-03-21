@@ -1,0 +1,140 @@
+{
+  "channels" : {
+    "-L5t2bGa0VDqh0U184Aw" : {
+      "name" : "kkk"
+    }
+  },
+  "users" : {
+    "id1" : {
+      "name" : "mauricio",
+      "email" : "m@gmail.com",
+      "age" : "42",
+      "startDate" : "24022018",
+      "startWeight" : "69",
+      "finalWeight" : "68",
+      "totalScore" : "100"
+    },
+    "id2" : {
+      "name" : "adriana",
+      "email" : "a@gmail.com",
+      "age" : "40",
+      "startDate" : "24022018",
+      "startWeight" : "69",
+      "finalWeight" : "68",
+      "totalScore" : "100"
+    }
+  },
+   "days": {
+    "id1" : {
+    "1": {
+      "email": "m@gmail.com",
+      "scoreAppOpened": true,
+      "scoreExercized": true,
+      "scoreAteHealthy": true,
+      "weight": "0",
+      "completed": false,
+      "recordDate": "29122018"
+    },
+    "2": {
+      "email": "m@gmail.com",
+      "scoreAppOpened": true,
+      "scoreExercized": true,
+      "scoreAteHealthy": true,
+      "weight": "0",
+      "completed": false,
+      "recordDate": "30122018"
+    }
+  },
+  "id2" : {
+    "1": {
+      "email": "a@gmail.com",
+      "scoreAppOpened": true,
+      "scoreExercized": true,
+      "scoreAteHealthy": true,
+      "weight": "0",
+      "completed": false,
+      "recordDate": "29122018"
+    },
+    "2": {
+      "email": "a@gmail.com",
+      "scoreAppOpened": true,
+      "scoreExercized": true,
+      "scoreAteHealthy": true,
+      "weight": "0",
+      "completed": false,
+      "recordDate": "30122018"
+    }
+  }
+  },
+  "days-items" : {
+    "333" : {
+      "addedByUser" : "dsfdsfsd@fff.com",
+      "completed" : false,
+      "day" : "Day 0",
+      "isItWeekDivider" : true,
+      "scoreAppOpened" : false,
+      "scoreAteHealthy" : false,
+      "scoreExercized" : false,
+      "weight" : "68"
+    },
+    "eeefffff" : {
+      "addedByUser" : "dsfdsfsd@fff.com",
+      "completed" : false,
+      "day" : "Day 0",
+      "isItWeekDivider" : true,
+      "scoreAppOpened" : false,
+      "scoreAteHealthy" : false,
+      "scoreExercized" : false,
+      "weight" : "68"
+    }
+  },
+  "grocery-items" : {
+    "aperol" : {
+      "addedByUser" : "hungry@person.food",
+      "completed" : true,
+      "name" : "aperol"
+    },
+    "apple" : {
+      "addedByUser" : "wwww@g.com",
+      "completed" : true,
+      "name" : "apple"
+    },
+    "lemon" : {
+      "addedByUser" : "hungry@person.food",
+      "completed" : true,
+      "name" : "lemon"
+    },
+    "pizza" : {
+      "addedByUser" : "hungry@person.food",
+      "completed" : true,
+      "name" : "pizza"
+    },
+    "soda" : {
+      "addedByUser" : "hungry@person.food",
+      "completed" : false,
+      "name" : "soda"
+    }
+  },
+  "messages" : {
+    "-L4GpvE47H6sC-jC1hCP" : {
+      "name" : "mauriciocabreira",
+      "text" : "teste"
+    },
+    "-L4GqK8rhJ32YHxbgHdD" : {
+      "name" : "mauriciocabreira",
+      "photoUrl" : "gs://lifer-mauricio.appspot.com/chat_photos/Fr9TkezIoGeR0cejBAMwBeStdir2/539189442934.271.jpg"
+    },
+    "-L4GqPwaEMg2p2w6W97o" : {
+      "name" : "mauriciocabreira",
+      "text" : "Maurício mandando msg"
+    },
+    "-L4GqR6urQTV0baNFriP" : {
+      "name" : "mauriciocabreira",
+      "text" : "Maurício mandando msg"
+    },
+    "-L4GqagMj6073aPAzPk-" : {
+      "name" : "teste3",
+      "text" : "teste3 here"
+    }
+  }
+}

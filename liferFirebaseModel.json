@@ -1,0 +1,58 @@
+
+
+{
+  "users": {
+    "mauricio@gmail": {
+      "name": "mauricio",
+      "age": "42",
+      "startDate": "31122018",
+      "scoreWeek1": "23",
+      "scoreWeek2": "23",
+      "scoreWeek3": "23",
+      "scoreWeek4": "23",
+   	  "totalScore": "100",
+      "days": { 
+		"1": {
+		  "scoreAppOpened": true,
+		  "scoreExercized": true,
+		  "scoreAteHealthy": true,
+		  "weight": "0",
+		  "completed": false,
+		  "recordDate": "31122018",
+		},
+		"1": {
+		  "scoreAppOpened": true,
+		  "scoreExercized": true,
+		  "scoreAteHealthy": true,
+		  "weight": "0",
+		  "completed": false,
+		  "recordDate": "31122018",
+		},
+		"1": {
+		  "scoreAppOpened": true,
+		  "scoreExercized": true,
+		  "scoreAteHealthy": true,
+		  "weight": "0",
+		  "completed": false,
+		  "recordDate": "31122018",
+		},
+		"1": {
+		  "scoreAppOpened": true,
+		  "scoreExercized": true,
+		  "scoreAteHealthy": true,
+		  "weight": "0",
+		  "completed": false,
+		  "recordDate": "31122018",
+		},
+		"1": {
+		  "scoreAppOpened": true,
+		  "scoreExercized": true,
+		  "scoreAteHealthy": true,
+		  "weight": "0",
+		  "completed": false,
+		  "recordDate": "31122018",
+		}
+	  }
+	}
+  }
+}

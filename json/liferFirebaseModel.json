@@ -1,0 +1,76 @@
+
+
+{
+  "users": {
+    "id1": {
+      "name": "mauricio",
+      "age": "42",
+      "startDate": "31122018",
+      "startWeight": "69",
+      "finalWeight": "68",
+   	  "totalScore": "100"
+		},
+		"id2": {
+      "name": "adriana",
+      "age": "40",
+      "startDate": "25112019",
+      "startWeight": "59",
+      "finalWeight": "58",
+   	  "totalScore": "110"
+		}
+	},
+  "days": {
+    "1": {
+		  "1": {
+		    "scoreAppOpened": true,
+	    	"scoreExercized": true,
+			  "scoreAteHealthy": true,
+			  "weight": "0",
+			  "completed": false,
+			  "recordDate": "31122018"
+		  },
+			"2": {
+			  "scoreAppOpened": true,
+			  "scoreExercized": true,
+			  "scoreAteHealthy": true,
+			  "weight": "0",
+			  "completed": false,
+			  "recordDate": "31122018"
+			},
+			"3": {
+			  "scoreAppOpened": true,
+			  "scoreExercized": true,
+			  "scoreAteHealthy": true,
+			  "weight": "0",
+			  "completed": false,
+			  "recordDate": "31122018"
+			}
+		},
+		"adriana@gmail": {
+		  "1": {
+		    "scoreAppOpened": true,
+	    	"scoreExercized": true,
+			  "scoreAteHealthy": true,
+			  "weight": "0",
+			  "completed": false,
+			  "recordDate": "31122018"
+		  },
+			"2": {
+			  "scoreAppOpened": true,
+			  "scoreExercized": true,
+			  "scoreAteHealthy": true,
+			  "weight": "0",
+			  "completed": false,
+			  "recordDate": "31122018"
+			},
+			"3": {
+			  "scoreAppOpened": true,
+			  "scoreExercized": true,
+			  "scoreAteHealthy": true,
+			  "weight": "0",
+			  "completed": false,
+			  "recordDate": "31122018"
+			}
+	  }
+	}
+}

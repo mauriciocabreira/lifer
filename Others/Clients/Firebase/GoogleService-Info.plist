@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>883585946522-shf1btoc1ngl1fkj4n2lrttoc8qeb2qp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.883585946522-shf1btoc1ngl1fkj4n2lrttoc8qeb2qp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARdu5hZEK_q1qzVSQ2Dda6Ln7kwAiix9E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>883585946522</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mau7icio.lifer</string>
+	<key>PROJECT_ID</key>
+	<string>lifer-mauricio</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lifer-mauricio.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:883585946522:ios:3d1d80a6ffd0aa80</string>
+	<key>DATABASE_URL</key>
+	<string>https://lifer-mauricio.firebaseio.com</string>
+</dict>
+</plist>
